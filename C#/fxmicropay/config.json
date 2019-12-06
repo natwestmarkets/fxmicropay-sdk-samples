@@ -1,0 +1,11 @@
+// Fill in Config Values
+{
+    "schemeId": "",
+    "segmentId": "",
+    "counterparty": "",
+    "apiUrl": "",
+    "ratesUri": "/rates",
+    "transactionUri": "/transactions",
+    "certLocation": "",
+    "certPassword": ""
+  }
